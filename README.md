@@ -55,13 +55,13 @@ Results-driven *IT Support Professional* and *Computer Technology Educator* with
 ## 🎓 Certifications & Professional Development
 
 ### 🏅 Professional Certifications & Academic Paths
-* 🎯 *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
-* 🏛️ *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
+*     *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
+*     *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
 * 🛡️ *TryHackMe:* Pre-Security & SOC Level 1 Learning Paths – In Progress
-* 🌐 *Cisco Networking Academy:* Network Support & Security; Network Technician (2026)
-* 📊 *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
+*     *Cisco Networking Academy:* Network Support & Security; Network Technician (2026)
+*      Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
 
-### 📜 LinkedIn Learning Certifications (Completed October 2026)
+###  LinkedIn Learning Certifications (Completed October 2026)
 | Certificate Name | Primary Skill Covered | Completed Date |
 | :--- | :--- | :--- |
 | *Learning Cyber Incident Response & Digital Forensics* | Digital Forensics & Incident Response | Oct 09, 2026 |
@@ -78,22 +78,18 @@ Results-driven *IT Support Professional* and *Computer Technology Educator* with
 ## 💼 Professional Experience
 
 
-+-----------------------------------------------------------------------------------+
 | 🏫 St. Columba's School | Dar es Salaam, Tanzania                                 |
 | 💼 Computer Technology Teacher & IT Help Desk Specialist | Jan 2025 - Present      |
-+-----------------------------------------------------------------------------------+
 | • Teach computer technology to O-Level students using educational technology.    |
 | • Primary IT Help Desk support for resolving Tier 1 & 2 hardware/software issues. |
 | • Maintain lab hardware stability and configure infrastructure for active study.  |
-+-----------------------------------------------------------------------------------+
-+-----------------------------------------------------------------------------------+
+
 | 🏢 3113Tech Solutions | Dar es Salaam, Tanzania                                   |
-| 💼 Founder & Lead IT Consultant | Present                                         |
-+-----------------------------------------------------------------------------------+
+| 💼 Founder & Lead IT Consultant | Present                                         
 | • Deliver IT support, network deployments, and CCTV installations for clients.    |
 | • Administer Windows Server environments, remote assistance, and custom IT setups. |
 | • Developed WilsonTechBot (WhatsApp Business API integration) for client support. |
-+-----------------------------------------------------------------------------------+
+
 
 ---
 
@@ -151,6 +147,3 @@ Results-driven *IT Support Professional* and *Computer Technology Educator* with
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dudasafarisadventures-bot&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
