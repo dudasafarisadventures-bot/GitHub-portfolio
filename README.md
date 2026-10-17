@@ -1,6 +1,6 @@
 # Wilson Marco Kundya
 
-IT Support Specialist | System Administrator | Cybersecurity Scholar
+IT Support Specialist | System Administrator | Cybersecurity Scholar & Robotics Educator
 
  Dar es Salaam, Tanzania  
  Portfolio Website: [dudasafarisadventures-bot.github.io/GitHub-portfolio](https://dudasafarisadventures-bot.github.io/GitHub-portfolio)  
@@ -10,11 +10,11 @@ IT Support Specialist | System Administrator | Cybersecurity Scholar
 
 ##  Professional Summary
 
-Results-driven IT Support Specialist and System Administrator with practical expertise in enterprise cloud infrastructure, Group Policy enforcement, and network security operations. Currently pursuing a Bachelor of Applied Science in Information Technology and System Administration at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, digital forensics, GRC, security assessments, and security operations using industry-standard tools.
+Results-driven IT Support Specialist, Computer Technology Educator, and System Administrator with practical expertise in enterprise cloud infrastructure, Group Policy enforcement, and network security operations. Currently pursuing a Bachelor of Applied Science in Information Technology and System Administration at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, digital forensics, GRC, security assessments, and embedded robotics systems using industry-standard tools.
 
 ---
 
-##  Technical Skills & Tools
+## 🛠️ Technical Skills & Tools
 
 ###  Cybersecurity & Digital Forensics
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DA5?style=for-the-badge&logo=Wireshark&logoColor=white)
@@ -32,15 +32,43 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-###  Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/IP_Subnetting_%26_Routing-00599C?style=for-the-badge&logo=ipf&logoColor=white)
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-000000?style=for-the-badge&logo=comptia&logoColor=white)
-![CCTV](https://img.shields.io/badge/CCTV_%26_Hardware_Repair-333333?style=for-the-badge&logo=opsgenie&logoColor=white)
+###  Robotics, Embedded Systems & Hardware
+![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad_Simulator-FFF400?style=for-the-badge&logo=autodesk&logoColor=black)
+![CCTV & Repair](https://img.shields.io/badge/Hardware_Repair_%26_CCTV-333333?style=for-the-badge&logo=opsgenie&logoColor=white)
 
 ---
 
-##  Key Hands-On Technical Projects & Documentation
+##  Robotics Engineering Projects (Arduino & Embedded Systems)
+
+### 1.  LED Blink — Introduction to Digital Output Control
+* *Platform & Tools:* Tinkercad Simulator | Arduino Uno R3 | C++ (Arduino Framework)
+* *Overview:* Programmed a digital output mechanism to control an LED indicator at 1-second interval cycles using pinMode(), digitalWrite(), and delay().
+* *Key Achievements:*
+  * Calculated current-limiting resistor values (220 Ohm) to prevent LED overcurrent damage.
+  * Successfully verified continuous 1000ms timing loops within the Tinkercad simulation environment.
+* *Result:* Established core foundation in microcontroller digital signaling and hardware circuit safety.
+
+### 2.  Button-Controlled LED — Digital Input & Conditional Logic
+* *Platform & Tools:* Tinkercad Simulator | Arduino Uno R3 | Push Button | C++
+* *Overview:* Designed a real-time Human-Machine Interface (HMI) where user button interaction dynamically triggers conditional output states (if/else logic).
+* *Key Achievements:*
+  * Implemented digitalRead() functions on digital Pin 2 to detect HIGH (5V) and LOW (0V) signal transitions.
+  * Constructed a pull-down resistor circuit topology ensuring noise-free digital input detection.
+* *Result:* Achieved zero-latency input-driven LED actuation, demonstrating foundational interactive embedded controls.
+
+### 3.  Button-Controlled Buzzer — Auditory Feedback System
+* *Platform & Tools:* Tinkercad Simulator | Arduino Uno R3 | Piezo Buzzer | C++
+* *Overview:* Developed an auditory signaling system using a piezo buzzer triggered by digital button input to emit controlled acoustic frequencies.
+* *Key Achievements:*
+  * Applied tone(pin, frequency) and noTone(pin) functions to generate clean 1000 Hz audio signals upon button presses.
+  * Integrated multi-component input/output handling within a real-time looping structure.
+* *Result:* Successfully deployed functional auditory user feedback for interactive hardware applications.
+
+---
+
+##  Key Enterprise SysAdmin & Security Projects
 
 ### 1.  Active Directory DS & GPO Enterprise Administration
 * *Environment:* AWS EC2 Cloud Instance | Windows Server 2022
@@ -87,21 +115,22 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 
 ##  Professional Experience
 
-## St. Columba's School | Dar es Salaam, Tanzania
-*Computer Technology Teacher & IT Help Desk Specialist* (Jan 2025 – Present)
-* Teach computer technology and foundational computing to O-Level secondary students utilizing educational technology best practices.
-* Manage and maintain school-wide IT infrastructure, serving as the primary IT Help Desk support for resolving Tier 1 & Tier 2 hardware, software, and network issues.
+###  St. Columba's English Medium Primary School | Dar es Salaam, Tanzania
+*Computer Technology Teacher & IT Support Specialist* (Jan 2025 – Present)
+* Teach foundational and modern technology courses including *Computer Basics, Artificial Intelligence (AI) Basics, and Basic Robotics* to primary school students using hands-on methodologies.
+* Manage and maintain school-wide computer laboratory infrastructure, serving as the primary IT Help Desk support for resolving hardware, software, and network connectivity issues.
+* Implement technology-integrated learning, device setup, and endpoint maintenance across administrative and academic workstations.
 
-##  3113Tech Solutions | Dar es Salaam, Tanzania
+###  3113Tech Solutions | Dar es Salaam, Tanzania
 *Founder & Lead IT Consultant* (Present)
 * Deliver end-to-end IT support, network deployments, and CCTV security installations for enterprise clients.
 * Administer Windows Server environments, remote assistance setups, and custom IT infrastructure projects.
 
 ---
 
- ##  Certifications & Academic Background
+##  Certifications & Academic Background
 
-## Academic Degrees & BYU-Pathway Credentials
+###  Academic Degrees & BYU-Pathway Credentials
 *  *B.A.S. in Information Technology & System Administration (Cybersecurity Focus)*  
   Ensign College / BYU-Pathway Worldwide | Expected Graduation: Sept 2027
 *  *PathwayConnect Certificate* – BYU-Pathway Worldwide | *Completed March 2026*
@@ -110,14 +139,14 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 *  *A-Level Certificate* – Mwenge High School (2007)
 *  *O-Level Certificate* – Ihanja Technical School (1999)
 
-## Industry Certifications & Training Paths
+###  Industry Certifications & Training Paths
 *  *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
 *  *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
 *  *TryHackMe:* Pre-Security & SOC Level 1 Learning Paths – In Progress
 *  *Cisco Networking Academy:* Network Support & Security; Network Technician (2026)
 *  *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
 
-## Completed Professional Certificates (October 2026)
+###  Completed Professional Certificates (October 2026)
 * *Learning Cyber Incident Response & Digital Forensics* (LinkedIn Learning)
 * *Performing a Technical Security Assessment* (LinkedIn Learning)
 * *AI for GRC Analysts* (by Cybrary) (LinkedIn Learning)
@@ -129,18 +158,19 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 
 ---
 
-## Core Strengths & Value-Add Capabilities
+##  Core Strengths & Value-Add Capabilities
 
 *  *Technical Troubleshooting & Root Cause Analysis:* Proficient in diagnosing complex hardware, operating system, and network connectivity faults quickly to reduce system downtime.
 *  *Security-First Mindset:* Combining system administration experience with SOC and digital forensics methodologies to enforce Zero Trust access control and identity governance.
-*  *Technical Communication & Training:* Leveraging a strong background in education to explain intricate technical concepts, cybersecurity policies, and user awareness training clearly to technical and non-technical stakeholders alike.
+*  *Robotics & STEM Education Leadership:* Expertise in simplifying complex engineering topics (Arduino, C++, circuit design, AI basics) to educate and inspire students.
 *  *Versatility & Rapid Adaptability:* Proven track record of continuously expanding technical skillsets across cloud infrastructure (AWS/Azure), enterprise systems (Windows Server/Active Directory), and modern AI security applications.
 
 ---
 
-## Let's Connect & Collaborate!
+###  Let's Connect & Collaborate!
 
-I am actively seeking opportunities as a Security Analyst I, SOC Analyst, or System Administrator.  
+I am actively seeking opportunities as a Security Analyst I, SOC Analyst, System Administrator, or STEM/Robotics Instructor*.  
 Feel free to reach out for consultations, technical collaborations, or professional opportunities!
 
 [ Send an Email](mailto:wilsonmichael0014@gmail.com) | [ Chat on WhatsApp](https://wa.me/2557400221000) | [ Visit Personal Website](https://www.wilson-marco.org)
+
