@@ -46,17 +46,64 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 
 ---
 
+## 🧪 Key Hands-On Technical Projects & Documentation
+
+### 1. ☁️ Active Directory DS & GPO Enterprise Administration
+* *Environment:* AWS EC2 Cloud Instance | Windows Server 2022
+* *Overview:* Architected and validated an Active Directory Domain Controller within a cloud-hosted infrastructure.
+* *Key Achievements:*
+  * Provisioned delegated domain administrator accounts following strict Role-Based Access Control (RBAC) principles.
+  * Designed Organizational Units (OUs) and configured SMB network shares with least-privilege permissions.
+  * Authored and enforced domain-wide Group Policy Objects (GPOs) for centralized workstation customization and compliance.
+* *Result:* Objectives fully verified on the live domain controller, demonstrating production-ready identity management skills.
+
+### 2. 📁 Automated Group Policy Folder Redirection
+* *Environment:* Windows Server 2022 | Windows Client VM | GPMC
+* *Overview:* Centralized user profile data and automated network backups by implementing Group Policy Folder Redirection.
+* *Key Achievements:*
+  * Established secure shared redirection roots with automated subfolder provisioning per domain user.
+  * Enforced real-time policy updates using gpupdate /force and audited client compliance via gpresult /v.
+* *Result:* Successfully migrated local user data to centralized storage, enhancing enterprise data resilience and security.
+
+### 3. 🌐 Peer-to-Peer (P2P) Workgroup Cloud Architecture
+* *Environment:* AWS EC2 Windows Server Instances | Advanced Sharing
+* *Overview:* Configured a secure virtual P2P file-sharing network across isolated AWS cloud servers without relying on a full domain infrastructure.
+* *Key Achievements:*
+  * Implemented Advanced Sharing permissions and configured direct UNC paths (\\EC2AMAZ-CQRDC C5\Project5).
+  * Resolved path-syntax challenges to ensure reliable network visibility and seamless resource sharing across workgroups.
+* *Result:* Confirmed precise administrative control over network resource accessibility in cloud workgroup environments.
+
+### 4. 🔒 User Account Security & Restriction Configuration
+* *Environment:* Windows Server / Windows 11 | MMC Console
+* *Overview:* Configured account lockout policies and system restrictions to enhance endpoint access security.
+* *Key Achievements:*
+  * Created a restricted user account (Project4) configured with a custom Microsoft Management Console (MMC).
+  * Enforced strict Control Panel and system setting restrictions benchmarked against an unrestricted ClientAdmin administrator account.
+* *Result:* Validated effective user privilege isolation and access controls across enterprise endpoints.
+
+### 5. 💻 Legacy Hardware Optimization: Windows 11 Pro Deployment
+* *Environment:* Windows 11 Pro (25H2) | Unsupported Hardware | Local Utilities
+* *Overview:* Resolved setup freeze points and successfully deployed Windows 11 Pro on legacy hardware failing official TPM 2.0 requirements.
+* *Key Achievements:*
+  * Diagnosed setup stalls during online update checks and bypassed network blocks using targeted local installation overrides.
+  * Successfully completed first-time setup while maintaining complete integrity of user files, system configurations, and software suites.
+* *Result:* Extended the operational lifecycle of legacy hardware without compromising system stability or data integrity.
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏫 St. Columba's School | Dar es Salaam, Tanzania
 *Computer Technology Teacher & IT Help Desk Specialist* (Jan 2025 – Present)
 * Teach computer technology and foundational computing to O-Level secondary students utilizing educational technology best practices.
 * Manage and maintain school-wide IT infrastructure, serving as the primary IT Help Desk support for resolving Tier 1 & Tier 2 hardware, software, and network issues.
+* Maintain lab hardware stability, configure computing devices, and foster technical literacy.
 
 ### 🏢 3113Tech Solutions | Dar es Salaam, Tanzania
 *Founder & Lead IT Consultant* (Present)
 * Deliver end-to-end IT support, network deployments, and CCTV security installations for enterprise clients.
 * Administer Windows Server environments, remote assistance setups, and custom IT infrastructure projects.
+* Developed custom business tools, including *WilsonTechBot* (WhatsApp Business API integration).
 
 ---
 
@@ -96,14 +143,6 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 * 🛡️ *Security-First Mindset:* Combining system administration experience with SOC and digital forensics methodologies to enforce Zero Trust access control and identity governance.
 * 🗣️ *Technical Communication & Training:* Leveraging a strong background in education to explain intricate technical concepts, cybersecurity policies, and user awareness training clearly to technical and non-technical stakeholders alike.
 * ⚡ *Versatility & Rapid Adaptability:* Proven track record of continuously expanding technical skillsets across cloud infrastructure (AWS/Azure), enterprise systems (Windows Server/Active Directory), and modern AI security applications.
-
----
-
-## 🚀 Featured Innovations & Highlights
-
-* *WilsonTechBot:* Developed an automated client interaction tool using the WhatsApp Business API to streamline technical query intakes and service consultations for 3113Tech Solutions.
-* *AWS Enterprise Identity Lab:* Designed and deployed a complete cloud-hosted Active Directory domain controller with GPO folder redirection and least-privilege RBAC provisioning.
-* *Legacy System Lifespan Extension:* Diagnosed and executed successful deployment overrides for Windows 11 Pro on legacy hardware, restoring usability without compromise.
 
 ---
 
