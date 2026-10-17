@@ -62,7 +62,16 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 
 ## 🎓 Certifications & Academic Background
 
-### 🏅 Professional Certifications & Academic Paths
+### 🎓 Academic Degrees & BYU-Pathway Credentials
+* 🎓 *B.A.S. in Information Technology & System Administration (Cybersecurity Focus)*  
+  Ensign College / BYU-Pathway Worldwide | Expected Graduation: Sept 2027
+* 📜 *PathwayConnect Certificate* – BYU-Pathway Worldwide | *Completed March 2026*
+* 📜 *Self-Reliance Certificate* – BYU-Pathway Worldwide | *Completed 2026*
+* 📜 *Diploma in Education* – Bunda Teachers Training College
+* 📜 *A-Level Certificate* – Mwenge High School (2007)
+* 📜 *O-Level Certificate* – Ihanja Technical School (1999)
+
+### 🏅 Industry Certifications & Training Paths
 * 🎯 *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
 * 🏛️ *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
 * 🛡️ *TryHackMe:* Pre-Security & SOC Level 1 Learning Paths – In Progress
@@ -79,13 +88,6 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 * *Teaching with Technology* (LinkedIn Learning)
 * *Teamwork Foundations* (LinkedIn Learning)
 
-### 🎓 Academic Degrees & Qualifications
-* 🎓 *B.A.S. in Information Technology & System Administration (Cybersecurity Focus)*  
-  Ensign College / BYU-Pathway Worldwide | Expected Graduation: Sept 2027
-* 📜 *Diploma in Education* – Bunda Teachers Training College
-* 📜 *A-Level Certificate* – Mwenge High School (2007)
-* 📜 *O-Level Certificate* – Ihanja Technical School (1999)
-
 ---
 
 ## 💡 Core Strengths & Value-Add Capabilities
@@ -99,7 +101,7 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 
 ## 🚀 Featured Innovations & Highlights
 
-* *WilsonTechBot:* Developed a automated client interaction tool using the WhatsApp Business API to streamline technical query intakes and service consultations for 3113Tech Solutions.
+* *WilsonTechBot:* Developed an automated client interaction tool using the WhatsApp Business API to streamline technical query intakes and service consultations for 3113Tech Solutions.
 * *AWS Enterprise Identity Lab:* Designed and deployed a complete cloud-hosted Active Directory domain controller with GPO folder redirection and least-privilege RBAC provisioning.
 * *Legacy System Lifespan Extension:* Diagnosed and executed successful deployment overrides for Windows 11 Pro on legacy hardware, restoring usability without compromise.
 
