@@ -1,5 +1,5 @@
-* Heading: # Wilson Marco Kundya
- * Title: IT Support Specialist | System Administrator | Cybersecurity Scholar
+ # Wilson Marco Kundya
+: IT Support Specialist | System Administrator | Cybersecurity Scholar
  * Details:
    * 📍 Dar es Salaam, Tanzania
    * 🌐 Portfolio Website: dudasafarisadventures-bot.github.io/GitHub-portfolio
