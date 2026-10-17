@@ -1,9 +1,4 @@
- # Wilson Marco Kundya
-: IT Support Specialist | System Administrator | Cybersecurity Scholar
- * Details:
-   * 📍 Dar es Salaam, Tanzania
-   * 🌐 Portfolio Website: dudasafarisadventures-bot.github.io/GitHub-portfolio
-   * ✉️ Contact: Connect via GitHub
+
 # Wilson Marco Kundya
 
 IT Support Specialist | System Administrator | Cybersecurity Scholar
