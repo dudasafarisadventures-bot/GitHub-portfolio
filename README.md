@@ -140,7 +140,7 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 
 ## Let's Connect & Collaborate!
 
-I am actively seeking opportunities as a *Security Analyst I, **SOC Analyst, or **System Administrator*.  
+I am actively seeking opportunities as a Security Analyst I, SOC Analyst, or System Administrator.  
 Feel free to reach out for consultations, technical collaborations, or professional opportunities!
 
 [ Send an Email](mailto:wilsonmichael0014@gmail.com) | [ Chat on WhatsApp](https://wa.me/2557400221000) | [ Visit Personal Website](https://www.wilson-marco.org)
