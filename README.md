@@ -1,4 +1,10 @@
- Wilson Marco Kundya
+* Heading: # Wilson Marco Kundya
+ * Title: IT Support Specialist | System Administrator | Cybersecurity Scholar
+ * Details:
+   * 📍 Dar es Salaam, Tanzania
+   * 🌐 Portfolio Website: dudasafarisadventures-bot.github.io/GitHub-portfolio
+   * ✉️ Contact: Connect via GitHub
+# Wilson Marco Kundya
 
 IT Support Specialist | System Administrator | Cybersecurity Scholar
 
@@ -111,4 +117,40 @@ Results-driven IT Support Specialist and System Administrator with practical exp
 * 📜 *O-Level Certificate* – Ihanja Technical School (1999)
 
 ### 🏅 Industry Certifications & Training Paths
-* 🎯 **CompTIA Security+ (SY
+* 🎯 *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
+* 🏛️ *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
+* 🛡️ *TryHackMe:* Pre-Security & SOC Level 1 Learning Paths – In Progress
+* 🌐 *Cisco Networking Academy:* Network Support & Security; Network Technician (2026)
+* 📊 *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
+
+### 📜 Completed Professional Certificates (October 2026)
+* *Learning Cyber Incident Response & Digital Forensics* (LinkedIn Learning)
+* *Performing a Technical Security Assessment* (LinkedIn Learning)
+* *AI for GRC Analysts* (by Cybrary) (LinkedIn Learning)
+* *CompTIA A+ Core 1 (220-1101) Prep* (LinkedIn Learning)
+* *Introduction to Artificial Intelligence* (LinkedIn Learning)
+* *Computer Science Principles: Digital Information* (LinkedIn Learning)
+* *Teaching with Technology* (LinkedIn Learning)
+* *Teamwork Foundations* (LinkedIn Learning)
+
+---
+
+## 💡 Core Strengths & Value-Add Capabilities
+
+* 🔍 *Technical Troubleshooting & Root Cause Analysis:* Proficient in diagnosing complex hardware, operating system, and network connectivity faults quickly to reduce system downtime.
+* 🛡️ *Security-First Mindset:* Combining system administration experience with SOC and digital forensics methodologies to enforce Zero Trust access control and identity governance.
+* 🗣️ *Technical Communication & Training:* Leveraging a strong background in education to explain intricate technical concepts, cybersecurity policies, and user awareness training clearly to technical and non-technical stakeholders alike.
+* ⚡ *Versatility & Rapid Adaptability:* Proven track record of continuously expanding technical skillsets across cloud infrastructure (AWS/Azure), enterprise systems (Windows Server/Active Directory), and modern AI security applications.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+I am actively seeking opportunities as a *Security Analyst I, **SOC Analyst, or **System Administrator*.  
+Feel free to reach out for consultations, technical collaborations, or professional opportunities!
+
+[📩 Send an Email](mailto:wilsonmichael0014@gmail.com) | [💬 Chat on WhatsApp](https://wa.me/2557400221000) | [🌐 Visit Personal Website](https://www.wilson-marco.org)
+
+“Securing digital assets through proactive defense, robust administration, and continuous learning.”
