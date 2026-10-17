@@ -1,3 +1,4 @@
+![Wilson Marco Kundya](profile.jpg)
 # Wilson Marco Kundya
 
 IT Support Specialist | System Administrator | Cybersecurity Scholar
