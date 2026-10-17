@@ -1,22 +1,16 @@
 # Wilson Marco Kundya
 
-<div align="center">
+IT Support Specialist | System Administrator | Cybersecurity Scholar
 
-### IT Support Professional | Aspiring Security Analyst | System Administrator
-📍 Dar es Salaam, Tanzania
-
-[![Email](https://img.shields.io/badge/Email-wilsonmichael0014%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilsonmichael0014@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B255%20740%20022%201000-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2557400221000)
-[![Website](https://img.shields.io/badge/Website-www.wilson--marco.org-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wilson-marco.org)
-[![GitHub](https://img.shields.io/badge/GitHub-dudasafarisadventures--bot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudasafarisadventures-bot)
-
-</div>
+📍 Dar es Salaam, Tanzania  
+🌐 Portfolio Website: [dudasafarisadventures-bot.github.io/GitHub-portfolio](https://dudasafarisadventures-bot.github.io/GitHub-portfolio)  
+✉️ Contact: Connect via GitHub
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Results-driven IT Support Professional and Computer Technology Educator with extensive hands-on experience in networking, system administration, and technical training, currently specializing in Cybersecurity. Pursuing a Bachelor of Applied Science in IT and System Administration (Cybersecurity focus) at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, digital forensics, GRC, security assessments, and security operations using industry-standard tools. Proven track record in optimizing enterprise IT infrastructure, enforcing Active Directory policies, and managing cloud environments.
+Results-driven IT Support Specialist and System Administrator with practical expertise in enterprise cloud infrastructure, Group Policy enforcement, and network security operations. Currently pursuing a Bachelor of Applied Science in Information Technology and System Administration at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, digital forensics, GRC, security assessments, and security operations using industry-standard tools.
 
 ---
 
@@ -97,13 +91,11 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 *Computer Technology Teacher & IT Help Desk Specialist* (Jan 2025 – Present)
 * Teach computer technology and foundational computing to O-Level secondary students utilizing educational technology best practices.
 * Manage and maintain school-wide IT infrastructure, serving as the primary IT Help Desk support for resolving Tier 1 & Tier 2 hardware, software, and network issues.
-* Maintain lab hardware stability, configure computing devices, and foster technical literacy.
 
 ### 🏢 3113Tech Solutions | Dar es Salaam, Tanzania
 *Founder & Lead IT Consultant* (Present)
 * Deliver end-to-end IT support, network deployments, and CCTV security installations for enterprise clients.
 * Administer Windows Server environments, remote assistance setups, and custom IT infrastructure projects.
-* Developed custom business tools, including *WilsonTechBot* (WhatsApp Business API integration).
 
 ---
 
@@ -119,46 +111,4 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 * 📜 *O-Level Certificate* – Ihanja Technical School (1999)
 
 ### 🏅 Industry Certifications & Training Paths
-* 🎯 *CompTIA Security+ (SY0-701)* – In Progress (uCertify Exam Prep)
-* 🏛️ *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
-* 🛡️ *TryHackMe:* Pre-Security & SOC Level 1 Learning Paths – In Progress
-* 🌐 *Cisco Networking Academy:* Network Support & Security; Network Technician (2026)
-* 📊 *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
-
-### 📜 Completed Professional Certificates (October 2026)
-* *Learning Cyber Incident Response & Digital Forensics* (LinkedIn Learning)
-* *Performing a Technical Security Assessment* (LinkedIn Learning)
-* *AI for GRC Analysts* (by Cybrary) (LinkedIn Learning)
-* *CompTIA A+ Core 1 (220-1101) Prep* (LinkedIn Learning)
-* *Introduction to Artificial Intelligence* (LinkedIn Learning)
-* *Computer Science Principles: Digital Information* (LinkedIn Learning)
-* *Teaching with Technology* (LinkedIn Learning)
-* *Teamwork Foundations* (LinkedIn Learning)
-
----
-
-## 💡 Core Strengths & Value-Add Capabilities
-
-* 🔍 *Technical Troubleshooting & Root Cause Analysis:* Proficient in diagnosing complex hardware, operating system, and network connectivity faults quickly to reduce system downtime.
-* 🛡️ *Security-First Mindset:* Combining system administration experience with SOC and digital forensics methodologies to enforce Zero Trust access control and identity governance.
-* 🗣️ *Technical Communication & Training:* Leveraging a strong background in education to explain intricate technical concepts, cybersecurity policies, and user awareness training clearly to technical and non-technical stakeholders alike.
-* ⚡ *Versatility & Rapid Adaptability:* Proven track record of continuously expanding technical skillsets across cloud infrastructure (AWS/Azure), enterprise systems (Windows Server/Active Directory), and modern AI security applications.
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate!
-
-I am actively seeking opportunities as a *Security Analyst I, **SOC Analyst, or **System Administrator*.  
-Feel free to reach out for consultations, technical collaborations, or professional opportunities!
-
-[📩 Send an Email](mailto:wilsonmichael0014@gmail.com) | [💬 Chat on WhatsApp](https://wa.me/2557400221000) | [🌐 Visit Personal Website](https://www.wilson-marco.org)
-
-“Securing digital assets through proactive defense, robust administration, and continuous learning.”
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=dudasafarisadventures-bot&color=0078D4&style=flat-square&label=Profile+Views)
-
-</div>
+* 🎯 **CompTIA Security+ (SY
