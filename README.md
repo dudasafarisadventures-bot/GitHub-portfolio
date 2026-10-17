@@ -1,4 +1,4 @@
-# Wilson Marco Kundya
+Wilson Marco Kundya
 
 *IT Support Professional | Aspiring Security Analyst | System Administrator*  
 📍 Dar es Salaam, Tanzania | ✉️ [wilsonmichael0014@gmail.com](mailto:wilsonmichael0014@gmail.com) | 📞 +255 740 022 1000 | 💬 WhatsApp: +255 740 022 1000  
@@ -8,31 +8,45 @@
 
 ## 👨‍💻 Professional Summary
 
-Results-driven IT Support Professional and Computer Technology Educator with extensive hands-on experience in networking, system administration, and technical training, currently specializing in cybersecurity. Pursuing a *Bachelor of Applied Science in IT and System Administration (Cybersecurity focus)* at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, vulnerability assessment, and security operations using industry-standard tools (Nmap, Wireshark, Metasploit, Burp Suite, Splunk). Proven track record in optimizing enterprise IT infrastructure, enforcing Active Directory policies, and managing cloud environments.
+Results-driven IT Support Professional and Computer Technology Educator with extensive hands-on experience in networking, system administration, and technical training, currently specializing in cybersecurity. Pursuing a *Bachelor of Applied Science in IT and System Administration (Cybersecurity focus)* at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, digital forensics, GRC, security assessments, and security operations using industry-standard tools (Nmap, Wireshark, Metasploit, Burp Suite, Splunk). Proven track record in optimizing enterprise IT infrastructure, enforcing Active Directory policies, and managing cloud environments.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* *Cybersecurity Tools:* Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper, Splunk, FTK Imager
-* *Security Concepts:* Network Security, Cryptography & PKI, Zero Trust Architecture, Risk Management, Digital Forensics, Cyber Kill Chain
-* *Systems Administration:* Windows Server (2022/2025), Active Directory (AD DS, GPO, OUs), Microsoft Azure Fundamentals, Microsoft Intune
+* *Cybersecurity & Forensics:* Incident Response, Digital Forensics, Security Audits & Technical Assessments, GRC & AI Integration, Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper, Splunk, FTK Imager
+* *Security Concepts:* Network Security, Cryptography & PKI, Zero Trust Architecture, Risk Management, Cyber Kill Chain
+* *Systems Administration & IT Support:* CompTIA A+ Hardware & OS Troubleshooting, Windows Server (2022/2025), Active Directory (AD DS, GPO, OUs), Microsoft Azure Fundamentals, Microsoft Intune
 * *Networking & Cloud:* Cisco Packet Tracer, IP Subnetting & Addressing, AWS EC2, Remote Support (RDP, AnyViewer), P2P Workgroup Architecture
-* *Programming & Automation:* Python, Flask, React Native, SQL/SQLite
-* *Hardware & Infrastructure:* PC Hardware Repair, System Diagnostics, CCTV Systems Installation & Configuration
+* *Programming & AI:* Python, Flask, React Native, SQL/SQLite, Artificial Intelligence Literacy & GRC Automation
+* *EdTech & Soft Skills:* Educational Technology, Teamwork & Collaboration, PC Hardware Repair, CCTV Systems Installation
 
 ---
 
 ## 🎓 Certifications & Professional Development
 
+### *Professional Certifications & Academic Training (In Progress)*
 * *CompTIA Security+ (SY0-701)* – In Progress (Exam Preparation via uCertify)
 * *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
 * *TryHackMe:* Pre-Security & Cybersecurity Learning Paths – In Progress
 * *Cisco Networking Academy:* Network Technician Career Path, Network Support & Security (2026)
 * *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
+
+### *LinkedIn Learning Certifications (October 2026)*
+* *Learning Cyber Incident Response and Digital Forensics* (Oct 2026)
+* *Performing a Technical Security Assessment* (Oct 2026)
+* *AI for GRC Analysts: Operationalize Risk Across GRC, SOC, and Engineering* (by Cybrary) (Oct 2026)
+* *CompTIA A+ Core 1 (220-1101) Prep* (Oct 2026)
+* *Introduction to Artificial Intelligence* (Oct 2026)
+* *Computer Science Principles: Digital Information* (Oct 2026)
+* *Teaching with Technology* (Oct 2026)
+* *Teamwork Foundations* (Oct 2026)
+* *Networking Foundations:* IP Addressing & Subnetting in Your Head (2026)
+
+### *Other Professional & Institutional Certificates*
 * *Microsoft Learn:* Azure Fundamentals, Windows Server & Active Directory Administration, Microsoft Entra ID
-* *LinkedIn Learning:* Networking Foundations: IP Addressing & Subnetting (2026)
 * *BYU-Pathway Worldwide:* PathwayConnect Certificate (2026) & Self-Reliance Certificate (2026)
+* *OSHA Certificate* (2015)
 
 ---
 
@@ -40,9 +54,9 @@ Results-driven IT Support Professional and Computer Technology Educator with ext
 
 ### *Computer Technology Teacher & IT Help Desk*
 *St. Columba's School* | Dar es Salaam, Tanzania | *January 2025 – Present*
-* Teach computer technology and foundational computing to O-Level secondary students.
+* Teach computer technology and foundational computing to O-Level secondary students utilizing educational technology best practices.
 * Manage and maintain school-wide IT infrastructure, serving as the primary IT Help Desk support for resolving Tier 1 & Tier 2 hardware, software, and network issues.
-* Develop practical computing curriculum and maintain lab hardware stability to support active digital learning.
+* Maintain lab hardware stability, configure computing devices, and foster technical literacy.
 
 ### *Founder & Lead IT Consultant*
 *3113Tech Solutions* | Dar es Salaam, Tanzania | *Present*
