@@ -1,99 +1,91 @@
 # Wilson Marco Kundya
-*IT Support Specialist | System Administrator | Cybersecurity Scholar*
 
-📍 Dar es Salaam, Tanzania  
-🌐 *Portfolio Website:* [dudasafarisadventures-bot.github.io/GitHub-portfolio](https://dudasafarisadventures-bot.github.io/GitHub-portfolio/)  
-✉️ *Contact:* [Connect via GitHub](https://github.com/dudasafarisadventures-bot)
+*IT Support Professional | Aspiring Security Analyst | System Administrator*  
+📍 Dar es Salaam, Tanzania | ✉️ [wilsonmichael0014@gmail.com](mailto:wilsonmichael0014@gmail.com) | 📞 +255 740 022 1000 | 💬 WhatsApp: +255 740 022 1000  
+🌐 *Website:* [www.wilson-marco.org](https://www.wilson-marco.org) | 🐙 *GitHub:* [dudasafarisadventures-bot](https://github.com/dudasafarisadventures-bot)
 
 ---
 
 ## 👨‍💻 Professional Summary
-Results-driven IT Support Specialist and System Administrator with practical expertise in enterprise Active Directory management, AWS cloud infrastructure, Group Policy enforcement, and network security operations. Currently pursuing a Bachelor of Applied Science in Information Technology and System Administration at Ensign College (BYU-Pathway Worldwide). Proven track record in optimizing IT infrastructure, resolving complex system issues, and implementing scalable security policies in academic and enterprise environments.
+
+Results-driven IT Support Professional and Computer Technology Educator with extensive hands-on experience in networking, system administration, and technical training, currently specializing in cybersecurity. Pursuing a *Bachelor of Applied Science in IT and System Administration (Cybersecurity focus)* at Ensign College (BYU-Pathway Worldwide). Actively developing core competencies in threat detection, vulnerability assessment, and security operations using industry-standard tools (Nmap, Wireshark, Metasploit, Burp Suite, Splunk). Proven track record in optimizing enterprise IT infrastructure, enforcing Active Directory policies, and managing cloud environments.
 
 ---
 
-## 🛠️ Core Technical Competencies
+## 🛠️ Technical Skills
 
-* *Operating Systems:* Windows Server 2022, Windows 11 Pro, Ubuntu Server, Kali Linux
-* *Cloud & Infrastructure:* Amazon Web Services (AWS EC2), Remote Desktop Protocol (RDP), AWS Fleet Manager, AnyViewer
-* *Directory Services & Identity Management:* Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Organizational Units (OU) Lifecycle Management, Microsoft Intune
-* *Security & Access Control:* Role-Based Access Control (RBAC), Least-Privilege Provisioning, NTFS & Share Permissions, GPMC
-* *Cybersecurity & Forensics:* Nmap Reconnaissance, Metasploit Framework, Wireshark Packet Analysis, FTK Imager
-* *Network Administration:* Enterprise SMB File Sharing, Subnetting & IP Planning, Peer-to-Peer (P2P) Workgroup Architectures
+* *Cybersecurity Tools:* Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper, Splunk, FTK Imager
+* *Security Concepts:* Network Security, Cryptography & PKI, Zero Trust Architecture, Risk Management, Digital Forensics, Cyber Kill Chain
+* *Systems Administration:* Windows Server (2022/2025), Active Directory (AD DS, GPO, OUs), Microsoft Azure Fundamentals, Microsoft Intune
+* *Networking & Cloud:* Cisco Packet Tracer, IP Subnetting & Addressing, AWS EC2, Remote Support (RDP, AnyViewer), P2P Workgroup Architecture
+* *Programming & Automation:* Python, Flask, React Native, SQL/SQLite
+* *Hardware & Infrastructure:* PC Hardware Repair, System Diagnostics, CCTV Systems Installation & Configuration
+
+---
+
+## 🎓 Certifications & Professional Development
+
+* *CompTIA Security+ (SY0-701)* – In Progress (Exam Preparation via uCertify)
+* *CS50: Introduction to Cybersecurity* – Harvard University / edX (In Progress)
+* *TryHackMe:* Pre-Security & Cybersecurity Learning Paths – In Progress
+* *Cisco Networking Academy:* Network Technician Career Path, Network Support & Security (2026)
+* *Cisco Networking Academy:* Splunk Cybersecurity Defense Analyst Journey
+* *Microsoft Learn:* Azure Fundamentals, Windows Server & Active Directory Administration, Microsoft Entra ID
+* *LinkedIn Learning:* Networking Foundations: IP Addressing & Subnetting (2026)
+* *BYU-Pathway Worldwide:* PathwayConnect Certificate (2026) & Self-Reliance Certificate (2026)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🖥️ IT Support & Computer Technology Educator
-*St. Columba's School* | Dar es Salaam, Tanzania
-* Oversee end-to-end IT infrastructure, network stability, and hardware maintenance across all educational operations.
-* Diagnose and resolve Tier 1–2 technical issues, minimizing downtime for staff and students.
-* Instruct secondary (O-Level) students in Computer Technology, fostering technical literacy and practical IT skills.
+### *Computer Technology Teacher & IT Help Desk*
+*St. Columba's School* | Dar es Salaam, Tanzania | *January 2025 – Present*
+* Teach computer technology and foundational computing to O-Level secondary students.
+* Manage and maintain school-wide IT infrastructure, serving as the primary IT Help Desk support for resolving Tier 1 & Tier 2 hardware, software, and network issues.
+* Develop practical computing curriculum and maintain lab hardware stability to support active digital learning.
 
-### 🚀 Founder & Lead Systems Engineer
-*3113Tech Solutions*
-* Deliver tailored IT support, system deployment, and infrastructure optimization for small-to-medium enterprises.
-* Administer Windows Server environments, remote assistance setups, and secure network architectures.
+### *Founder & Lead IT Consultant*
+*3113Tech Solutions* | Dar es Salaam, Tanzania | *Present*
+* Deliver end-to-end IT support, network deployments, and CCTV security installations for enterprise clients.
+* Administer Windows Server environments, remote assistance setups, and custom IT infrastructure projects.
+* Developed custom business tools, including *WilsonTechBot* (WhatsApp Business API integration).
 
 ---
 
-## 🚀 Key Hands-On Projects & Technical Documentation
+## 🧪 Featured Technical Projects & Documentation
 
-### 🖥️ 1. Active Directory DS & GPO Enterprise Administration
+### *1. Active Directory DS & GPO Enterprise Administration*
 * *Environment:* AWS EC2 Cloud Instance | Windows Server 2022
-* *Overview:* Architected and validated an Active Directory Domain Controller within a cloud-hosted infrastructure.
-* *Key Achievements:*
-  * Provisioned delegated domain administrator accounts following strict Role-Based Access Control (RBAC) principles.
-  * Designed Organizational Units (OUs) and configured SMB network shares with least-privilege permissions.
-  * Authored and enforced domain-wide Group Policy Objects (GPOs) for centralized workstation customization and compliance.
-* *Result:* Objectives fully verified on the live domain controller, demonstrating production-ready identity management skills.
+* *Summary:* Architected and deployed a domain controller within cloud infrastructure. Provisioned delegated admin accounts using strict *Role-Based Access Control (RBAC)*, created OUs, and enforced domain-wide Group Policy Objects (GPOs).
 
----
-
-### 📂 2. Automated Group Policy Folder Redirection
+### *2. Automated Group Policy Folder Redirection*
 * *Environment:* Windows Server 2022 | Windows Client VM | GPMC
-* *Overview:* Centralized user profile data and automated network backups by implementing Group Policy Folder Redirection.
-* *Key Achievements:*
-  * Established secure shared redirection roots with automated subfolder provisioning per domain user.
-  * Enforced real-time policy updates using gpupdate /force and audited client compliance via gpresult /v.
-* *Result:* Successfully migrated local user data to centralized storage, enhancing enterprise data resilience and security.
+* *Summary:* Centralized user profile data and automated network backups across client workstations using GPO folder redirection. Audited policy enforcement via gpupdate /force and gpresult /v.
 
----
-
-### 🌐 3. Peer-to-Peer (P2P) Workgroup Cloud Architecture
+### *3. Peer-to-Peer (P2P) Workgroup Cloud Architecture*
 * *Environment:* AWS EC2 Windows Server Instances | Advanced Sharing
-* *Overview:* Configured a secure virtual P2P file-sharing network across isolated AWS cloud servers without relying on a full domain infrastructure.
-* *Key Achievements:*
-  * Implemented Advanced Sharing permissions and configured direct UNC paths (\\EC2AMAZ-CQRDC C5\Project5).
-  * Resolved path-syntax challenges to ensure reliable network visibility and seamless resource sharing across workgroups.
-* *Result:* Confirmed precise administrative control over network resource accessibility in cloud workgroup environments.
+* *Summary:* Configured a secure virtual P2P file-sharing network across isolated AWS cloud servers using direct UNC paths (\\EC2AMAZ-CQRDC C5\Project5) without full domain dependency.
+
+### *4. User Account Security & Restriction Configuration*
+* *Environment:* Windows Server / Windows 11 | MMC
+* *Summary:* Configured account lockout thresholds, restricted user access via custom MMC consoles, and enforced Control Panel access restrictions benchmarked against an unrestricted administrator account.
+
+### *5. Legacy Hardware Optimization: Windows 11 Pro Deployment*
+* *Environment:* Windows 11 Pro | Unsupported Hardware | Local Utilities
+* *Summary:* Resolved setup stalls and bypassed TPM 2.0 / hardware minimum check restrictions to successfully deploy Windows 11 Pro on legacy hardware while maintaining data integrity.
 
 ---
 
-### 🔌 4. Secure Remote Access & Cross-Platform Management
-* *Environment:* Multi-Device Remote Workstations | AnyViewer Software
-* *Overview:* Deployed secure remote control solutions to enable efficient cross-device troubleshooting and system monitoring.
-* *Key Achievements:*
-  * Established authenticated remote management sessions across endpoint devices using secure IDs and account policies.
-  * Conducted remote diagnostics and cross-device file transfers while monitoring session performance and stability.
-* *Result:* Established a reliable remote support framework capable of handling off-site IT maintenance.
+## 🎓 Education
+
+* *B.A.S. in Information Technology & System Administration (Cybersecurity Focus)*  
+  Ensign College / BYU-Pathway Worldwide | *Expected Graduation: Sept 2027*
+* *Diploma in Education* – Bunda Teachers Training College
+* *A-Level Certificate* – Mwenge High School (2007)
+* *O-Level Certificate* – Ihanja Technical School (1999)
 
 ---
 
-### 🛠️ 5. Legacy Hardware Optimization: Windows 11 Pro Deployment
-* *Environment:* Windows 11 Pro (25H2) | Unsupported Hardware | Local Utilities
-* *Overview:* Resolved setup freeze points and successfully deployed Windows 11 Pro on legacy hardware failing official TPM 2.0 requirements.
-* *Key Achievements:*
-  * Diagnosed setup stalls during online update checks and bypassed network blocks using targeted local installation overrides.
-  * Successfully completed first-time setup while maintaining complete integrity of user files, system configurations, and software suites.
-* *Result:* Extended the operational lifecycle of legacy hardware without compromising system stability or data integrity.
+## 🤝 Leadership & Community Service
 
----
-
-## 🎓 Education & Professional Certifications
-
-* *Bachelor of Applied Science in Information Technology and System Administration*  
-  Ensign College – BYU-Pathway Worldwide | Expected Graduation: September 2027
-* *Google Cybersecurity Professional Certificate*  
-  Coursera / Google | In Progress
+* *Elders Quorum Leadership* – The Church of Jesus Christ of Latter-day Saints
